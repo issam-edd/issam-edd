@@ -48,11 +48,14 @@
 - Includes web scraping, image manipulation, email automation, and data processing scripts.
 
 ---
+### 🤳 Connect with me
 
-## 🤳 Connect with Me
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:issamennaqri@gmail.com)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/ennaqri/)
+[gmail]: mailto:issamennaqri@gmail.com
+[linkedin]: https://linkedin.com/in/ennaqri 
+<br>
 
 ---
 
