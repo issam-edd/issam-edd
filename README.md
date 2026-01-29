@@ -15,10 +15,19 @@
     - Full-stack blog application using Laravel, Filament, and Livewire.
     - Users can read, like, and comment on articles, as well as create their own posts after signing in/signing up.
     - Includes an admin panel for managing content and users.
-- [Pure PHP e-commerce website](https://github.com/issam-edd/avocat-laravel) <b>(PHP (Core), MySQL, html, css, javascript, bootstrap)</b>
+- [Pure PHP e-commerce website](https://github.com/issam-edd/php_ecom) <b>(PHP (Core), MySQL, html, css, javascript, bootstrap)</b>
     - A full e-commerce system developed using pure PHP (no framework) to deeply understand backend fundamentals.
     - The project includes user authentication, product management, shopping cart, order handling, and a custom admin dashboard.
-    - This project focuses on core PHP concepts such as sessions, database interactions, and manual CRUD operations. 
+    - This project focuses on core PHP concepts such as sessions, database interactions, and manual CRUD operations.
+- [Restaurant Management System (Graduation Project)](https://github.com/issam-edd/restaurant_management_system) <b>(PHP, Laravel, html, css, javascript, bootstrap, Mysql)</b>
+  - Full-stack restaurant management system developed as a graduation project (OFPPT)
+  - Internal dashboard for managing employees, clients, tables, meals, and categories
+  - Order management for dine-in tables and online clients
+  - Billing and invoice system for clients and suppliers
+  - Ingredient and supplier management with relational database design
+  - Many-to-many relationships (meals–ingredients, orders–meals, suppliers–ingredients)
+  - Public client website for online food ordering
+  - Role-based access for administrators and staff 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
