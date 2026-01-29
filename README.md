@@ -1,57 +1,60 @@
-<h1>Hi, I'm Issam! <br/><a href="#">Junior Software Developer</a></h1>
+# Hi, I'm Issam! 👋  
+**Junior Software Developer | Full-Stack & Multi-Language Developer**
 
-<h2>👨‍💻 Current Projects:</h2>
+---
 
-- [lawyers (avocats) and clients website](https://github.com/issam-edd/avocat-laravel) <b>(laravel, php, dashboard, authentication, html, css, javascript, mysql)</b>
-  -  A full-stack platform designed for lawyers (avocats) and clients.
-  - Visitors can browse a directory of lawyers, view detailed professional profiles, and access individual landing pages for each avocat.
-  - Lawyers can create accounts, manage their personal profiles, and update their information through a dedicated dashboard.
-  - The system includes authentication, role-based access, and an administrative dashboard for managing users and content.
-- [E-commerce website Laravel](https://github.com/issam-edd/ecommerce_laravel) <b>(laravel, php, ecommerce, html, css, javascript, bootstrap, crud, paypal, mysql)</b>
-    - Full-stack e-commerce application developed using Laravel.
-    - Features include an admin CRUD dashboard, product management, shopping cart, address handling, and PayPal payment integration.
-    - Customers can browse, purchase products, and complete secure online payments. 
-- [Full-Stack Blog Platform](https://github.com/issam-edd/tfll-blog) <b>(Laravel, Filament, Livewire, html, css, javascript, tailwind css)</b>
-    - Full-stack blog application using Laravel, Filament, and Livewire.
-    - Users can read, like, and comment on articles, as well as create their own posts after signing in/signing up.
-    - Includes an admin panel for managing content and users.
-- [Pure PHP e-commerce website](https://github.com/issam-edd/php_ecom) <b>(PHP (Core), MySQL, html, css, javascript, bootstrap)</b>
-    - A full e-commerce system developed using pure PHP (no framework) to deeply understand backend fundamentals.
-    - The project includes user authentication, product management, shopping cart, order handling, and a custom admin dashboard.
-    - This project focuses on core PHP concepts such as sessions, database interactions, and manual CRUD operations.
-- [Restaurant Management System (Graduation Project)](https://github.com/issam-edd/restaurant_management_system) <b>(PHP, Laravel, html, css, javascript, bootstrap, Mysql)</b>
-  - Full-stack restaurant management system developed as a graduation project (OFPPT)
-  - Internal dashboard for managing employees, clients, tables, meals, and categories
-  - Order management for dine-in tables and online clients
-  - Billing and invoice system for clients and suppliers
-  - Ingredient and supplier management with relational database design
-  - Many-to-many relationships (meals–ingredients, orders–meals, suppliers–ingredients)
-  - Public client website for online food ordering
-  - Role-based access for administrators and staff 
-- <b>C# (.NET Desktop Applications)</b>
-  - soon ...
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/issam-edd/Python-Mini-Projects)
+## 👨‍💻 Current Projects
 
-<h2> 🤳 Connect with me:</h2>
+### [Lawyers (Avocats) & Clients Website](https://github.com/issam-edd/avocat-laravel)  
+**Tech Stack:** Laravel, PHP, MySQL, HTML, CSS, JavaScript, Dashboard, Authentication  
+- Full-stack platform for lawyers (avocats) and clients.  
+- Visitors can browse lawyer directories, view professional profiles, and access individual landing pages.  
+- Lawyers can sign in, manage profiles, and update their information through a dashboard.  
+- Includes authentication, role-based access, and an admin dashboard for managing users and content.
 
-[<img align="left" alt="issam-edd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="issam-edd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### [E-commerce Website (Laravel)](https://github.com/issam-edd/ecommerce_laravel)  
+**Tech Stack:** Laravel, PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, CRUD, PayPal  
+- Full-stack e-commerce platform with admin CRUD dashboard.  
+- Features product management, shopping cart, address handling, and PayPal payment integration.  
+- Customers can browse and purchase products, completing secure online payments.
 
-[gmail]: mailto:issamennaqri@gmail.com
-[linkedin]: https://linkedin.com/in/ennaqri/
+### [Full-Stack Blog Platform](https://github.com/issam-edd/tfll-blog)  
+**Tech Stack:** Laravel, Filament, Livewire, Tailwind CSS, HTML, CSS, JavaScript  
+- Blog platform where users can read, like, comment, and create posts.  
+- Includes an admin panel for content and user management.  
+- Built with modern Livewire components for real-time interactivity.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Pure PHP E-commerce Website](https://github.com/issam-edd/php_ecom)  
+**Tech Stack:** PHP (Core), MySQL, HTML, CSS, JavaScript, Bootstrap  
+- Full e-commerce system built with pure PHP to demonstrate backend fundamentals.  
+- Features include user authentication, product management, shopping cart, order handling, and a custom admin dashboard.  
+- Focuses on core PHP concepts such as sessions, database interactions, and manual CRUD operations.
 
-Here are some ideas to get you started:
+### [Restaurant Management System (Graduation Project)](https://github.com/issam-edd/restaurant_management_system)  
+**Tech Stack:** PHP, Laravel, MySQL, HTML, CSS, JavaScript, Bootstrap  
+- Full-stack restaurant management system for internal staff and online clients.  
+- Admin dashboard manages employees, clients, tables, meals, and categories.  
+- Handles client and supplier orders, billing, and invoices.  
+- Supports many-to-many relationships (meals–ingredients, orders–meals, suppliers–ingredients).  
+- Public website allows online food ordering with role-based access for admins and staff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### C# (.NET Desktop Applications)  
+**Tech Stack:** C#, .NET, Windows Forms / WPF  
+- Coming soon: Desktop applications demonstrating CRUD, data visualization, and algorithmic projects.
+
+### Python Mini Projects  
+**Tech Stack:** Python, Data Structures & Algorithms  
+- [Package Delivery Application](https://github.com/issam-edd/Python-Mini-Projects)  
+- Includes web scraping, image manipulation, email automation, and data processing scripts.
+
+---
+
+## 🤳 Connect with Me
+
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:issamennaqri@gmail.com)  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/ennaqri/)
+
+---
+
+> 💡 I’m always exploring new technologies, building projects, and expanding my skill set across multiple programming languages.  
+> Feel free to explore my repositories and connect if you’re interested in collaboration or mentorship!
